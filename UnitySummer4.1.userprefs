@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\8.1 file\CharacterScripts\AIScript.js">
+    <Files>
+      <File FileName="Assets\8.1 file\CharacterScripts\AIScript.js" Line="177" Column="4" />
+      <File FileName="Assets\3.1UniSum\Scripts\WaveScript.js" Line="67" Column="14" />
+      <File FileName="Assets\7.1 file\Main File 7.1\Scripts 7\LevelScript\SphereScript7.js" Line="20" Column="30" />
+      <File FileName="Assets\8.1 file\CharacterScripts\BetterAI.js" Line="21" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
